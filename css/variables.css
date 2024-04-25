@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+=======
+:root{
+    --color-1: #FFFFFF;
+    --color-2: #33404F;
+    --color-3: #00DDA3;
+    --color-4: #B5C5C3;
+    --color-5: #FFFFFFcc;
+    --color-6: #E1FFEF;
+<<<<<<< HEAD
+=======
+    --color-7: #00DDA3;
+    --color-8: #E1FFEF;
+    --color-9: #00C289;
+    --color-10: #FCD925;
+    --color-11: #5ACCE7;
+    --color-12: #FDB5CD;
+    --color-13: #00C28940;
+    --color-14: #00C2897F;
+    --color-15: #FCD92540;
+    --color-16: #33404F7F;
+    --color-17: #FCD92540;
+
+
+>>>>>>> a507f03 (🎨 style: Update Figma style)
+    --space-layout-padding-lr: 0px 15px;
+
+}
+
+@font-face {
+    font-family: "SF_BOLD";
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
+}
+
+@font-face {
+    font-family: "SF_REGULAR";
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Regular.otf);
+}
+
+@font-face {
+    font-family: "SF_MEDIUM";
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
+}
+
+@font-face {
+    font-family: "SF_LIGHT";
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
+}
+
+@font-face {
+    font-family: "SF_SEMIBOLD";
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
+}
+
+@font-face {
+    font-family: "SF_HEAVY";
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
+}
+
+
+
+>>>>>>> f8a5b2b (🎨 style: Add CSS styles for page details section)
