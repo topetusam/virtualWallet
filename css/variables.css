@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
 :root{
     --color-1: #FFFFFF;
     --color-2: #33404F;
@@ -11,10 +14,16 @@
     --color-5: #FFFFFFcc;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
     --color-6: #E1FFEF;
+=======
+    --color-6: #E1FFEF;
+<<<<<<< HEAD
+=======
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
     --color-7: #00DDA3;
     --color-8: #E1FFEF;
     --color-9: #00C289;
@@ -29,9 +38,13 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a507f03 (🎨 style: Update Figma style)
 =======
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+>>>>>>> a507f03 (🎨 style: Update Figma style)
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
     --space-layout-padding-lr: 0px 15px;
 
 }
@@ -39,60 +52,88 @@
 @font-face {
     font-family: "SF_BOLD";
 <<<<<<< HEAD
+<<<<<<< HEAD
     src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
 =======
     src: url(storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
 }
 
 @font-face {
     font-family: "SF_REGULAR";
 <<<<<<< HEAD
+<<<<<<< HEAD
     src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Regular.otf);
 =======
     src: url(storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Regular.otf);
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Regular.otf);
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
 }
 
 @font-face {
     font-family: "SF_MEDIUM";
 <<<<<<< HEAD
+<<<<<<< HEAD
     src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
 =======
     src: url(storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
 }
 
 @font-face {
     font-family: "SF_LIGHT";
 <<<<<<< HEAD
+<<<<<<< HEAD
     src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
 =======
     src: url(storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
 }
 
 @font-face {
     font-family: "SF_SEMIBOLD";
 <<<<<<< HEAD
+<<<<<<< HEAD
     src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
 =======
     src: url(storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
 }
 
 @font-face {
     font-family: "SF_HEAVY";
 <<<<<<< HEAD
+<<<<<<< HEAD
     src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
 =======
     src: url(storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+    src: url(/storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
 }
 
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ae3dbb3 (🎨 style: Revise style for balance page)
 >>>>>>> 956df05 (feat: :fire: Modulo Balance)
+=======
+>>>>>>> f8a5b2b (🎨 style: Add CSS styles for page details section)
+>>>>>>> 83b132c (feat: :fire: Modulo detail)
